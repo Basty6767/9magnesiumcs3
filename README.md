@@ -1,6 +1,10 @@
-# 9magnesiumcs3
+# COMPUTER SCIENCE 3 PORTFOLIO
 
-Sebastian Felix G. Ibasco
-9 - Magnesium
+## INFORMATION
+    Sebastian Felix G. Ibasco
+    9 - Magnesium
+
+## 1ST QUARTER
+  ## ACTIVITIES
 
 Sports: Volleyball, Basketball, Badminton, and more 
