@@ -38,6 +38,7 @@ Sub-Problem 1 - The cashier takes too long calculating the amount of change need
 ### Pseudocode
 
 START
+    
     Show food menu with prices
     Take students order
     Calculate total price
@@ -48,4 +49,5 @@ START
         Display Not enough money
     Else
         return change to student
+        
 END
