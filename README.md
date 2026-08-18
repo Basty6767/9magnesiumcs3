@@ -7,8 +7,8 @@
     
 ## 1ST QUARTER
   ## ACTIVITIES
-[Computational Thinking Exercise] (q1\ctskillsMagnesiumIbasco.md)
+[Computational Thinking Exercise] (q1/ctskillsMagnesiumIbasco.md)
 
-[Chinese Zodiac] (q1\zodiacMagnesiumIbasco.md)
+[Chinese Zodiac] (q1/zodiacMagnesiumIbasco.md)
 
  
