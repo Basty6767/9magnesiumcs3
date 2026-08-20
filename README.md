@@ -10,5 +10,7 @@
 
 ## ACTIVITIES
 [COMPUTATIONAL THINKING EXERCISE](./q1/ctskillsMagnesiumIbasco.md)
+
 [CHINESE ZODIAC](./q1/zodiacMagnesiumIbasco.md)
+
 [OOP CONCEPT](./q1/ila_oop.md)
