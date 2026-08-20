@@ -1,4 +1,4 @@
-# 9magnesiumcs3
+# COMPUTER SCIENCE 3 PORTFOLIO
 
 Sebastian Felix G. Ibasco
 9 - Magnesium
