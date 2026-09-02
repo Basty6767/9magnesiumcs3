@@ -41,9 +41,10 @@
 ## Design Explanation
 
 ### Why did you choose this class?
-  #### I chose VNL Teams because I am a big fan of the sport volleyball and I play it nearly everyday on the court near dorm 1. I also enjoy watching matches of the international level players because of the long, intense rallies they have.
+     - I chose VNL Teams because I am a big fan of the sport volleyball and I play it nearly everyday on the court near dorm 1. I also enjoy watching matches of the international level players because of the long, intense rallies they have.
 
 ### Which property is the most important? Why?
-- 
+    - For me, I think the ranking is the most important because it reflects on the teams performance in the league. It also determines whether the team is qualified for the quarterfinals and finals.
 
 ### Which method is the most useful? Why?
+    - I think the subPlayer method is the most important because if used correctly, coaches can create several different strategies based on the players that they put onto the court. It is also essential for players to be subbed out during matches in order for them to rest and not be exhausted after just 1 set.
