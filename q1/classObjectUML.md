@@ -26,19 +26,14 @@
 +------------------------------------------+
 
 | Players : Integer |
-
 | Country : String |
-
 | Ranking : Integer |
-
 | Wins : Integer |
 
 +------------------------------------------+
 
 | serve() |
-
 | block(opponentSpike : String) |
-
 | subPlayer(Name: string) |
 
 +------------------------------------------+
@@ -46,8 +41,9 @@
 ## Design Explanation
 
 ### Why did you choose this class?
-    - I chose
+    - I chose VNL Teams because I am a big fan of the sport volleyball and I play it nearly everyday on the court near dorm 1. I also enjoy watching matches of the international level players because of the long, intense rallies they have.
 
 ### Which property is the most important? Why?
+    - 
 
 ### Which method is the most useful? Why?
