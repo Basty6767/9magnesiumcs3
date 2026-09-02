@@ -6,41 +6,42 @@
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-| | | |
-| | | |
-| | | |
-| | | |
+| Players | Integer | Number of players in a team |
+| Country | String | The country that team represents |
+| Ranking | Integer | Current ranking in the league |
+| NumofWins | Integer | Current of number of wins |
 ## Methods
 | Method | Description |
 |---|---|
-| | |
-| | |
-| | |
+| serve | The team does a serve to start a rally |
+| block(opponentSpike: string) | The team tries to block the spike of the opposing team |
+| subPlayer(Name: string) | Swaps a player on the court with a player on the bench |
 
 ## Class Diagram
 
 +------------------------------------------+
 
-| ClassName |
+| VNL Teams |
 
 +------------------------------------------+
 
-| property : datatype |
-| property : datatype |
-| property : datatype |
-| property : datatype |
+| Players : Integer |
+| Country : String |
+| Ranking : Integer |
+| Wins : Integer |
 
 +------------------------------------------+
 
-| method() |
-| method(parameter : datatype) |
-| method() |
+| serve() |
+| block(opponentSpike : String) |
+| subPlayer(Name: string) |
 
 +------------------------------------------+
 
 ## Design Explanation
 
 ### Why did you choose this class?
+    - I chose
 
 ### Which property is the most important? Why?
 
