@@ -26,14 +26,19 @@
 +------------------------------------------+
 
 | Players : Integer |
+
 | Country : String |
+
 | Ranking : Integer |
+
 | Wins : Integer |
 
 +------------------------------------------+
 
 | serve() |
+
 | block(opponentSpike : String) |
+
 | subPlayer(Name: string) |
 
 +------------------------------------------+
