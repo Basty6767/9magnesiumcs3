@@ -9,10 +9,10 @@
 # 1ST QUARTER
 
 ## ACTIVITIES
-[COMPUTATIONAL THINKING EXERCISE](./q1/ctskillsMagnesiumIbasco.md)
+#1. [COMPUTATIONAL THINKING EXERCISE](./q1/ctskillsMagnesiumIbasco.md)
 
-[CHINESE ZODIAC](./q1/zodiacMagnesiumIbasco.md)
+#2. [CHINESE ZODIAC](./q1/zodiacMagnesiumIbasco.md)
 
-[OOP CONCEPT](./q1/ila_oop.md)
+#3. [OOP CONCEPT](./q1/ila_oop.md)
 
-[OOPACT ](./q1/classObjectUML.md)
+#4. [OOPACT ](./q1/classObjectUML.md)
