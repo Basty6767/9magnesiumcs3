@@ -20,16 +20,22 @@
 ## Class Diagram
 
 +------------------------------------------+
+
 | ClassName |
+
 +------------------------------------------+
+
 | property : datatype |
 | property : datatype |
 | property : datatype |
 | property : datatype |
+
 +------------------------------------------+
+
 | method() |
 | method(parameter : datatype) |
 | method() |
+
 +------------------------------------------+
 
 ## Design Explanation
