@@ -1,7 +1,7 @@
 # SG4 - Understanding Classes and Objects
-## Class Name: 
+## Class Name: VNL Teams
 
-## Class Description: 
+## Class Description: The international Volleyball teams of 18 different countries that compete in annual indoor Volleyball matches.
 
 ## Properties
 | Property | Data Type | Description |
