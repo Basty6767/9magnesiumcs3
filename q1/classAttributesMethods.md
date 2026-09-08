@@ -5,15 +5,15 @@ Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 
 ## Design Revision
-Describe any changes made to your original class.
+No major changes were needed from my original design.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| Players | Integer | Private | Protects data so nobody accidentally changes the number of players in a team |
+| Country | String | Public | Anyone can view what country each team represents |
+| Ranking | Integer | Public | Anyone can view each team's current rank |
+| NumofWins | Integer | Private | Protects the data so external code cannot cheat and fake the win count |
 
 ## Updated UML Class Diagram
 ![Class Diagram](images/classDiagramSG5.png)
