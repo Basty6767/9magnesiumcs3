@@ -16,16 +16,16 @@ No major changes were needed from my original design.
 | NumofWins | Integer | Private | Protects the data so external code cannot cheat and fake the win count |
 
 ## Updated UML Class Diagram
-![Class Diagram](q1/images/classDiagramSG5.png)
+![Class Diagram](q1/Images/classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](/q1images/classTestRun.png)
+![Test Run](q1/Images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](q1/images/objectDiagram.png)
+![Object Diagram](q1/Images/objectDiagram.png)
 
 ## Analysis
 
