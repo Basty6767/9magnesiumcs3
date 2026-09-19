@@ -19,3 +19,5 @@
 
 #5. [OOPACT PARTII](./q1/classAttributesMethods.md)
 
+#6. [OOPACT PARTIII](./q1/classRelationships.md)
+
