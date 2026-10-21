@@ -23,4 +23,10 @@
 
 #7. [OOPACT PARTIV](./q1/advancedRelationships.md)
 
-#8. [ENCAPSULATION](./q2/sg8_encapsulation.py)
+# 2ND QUARTER
+ 
+## ACTIVITIES
+
+#1. [ENCAPSULATION](./q2/sg8_encapsulation.py)
+
+#2. [INHERITANCE](./q2/sg9_inheritance.py)
