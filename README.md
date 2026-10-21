@@ -22,3 +22,5 @@
 #6. [OOPACT PARTIII](./q1/classRelationships.md)
 
 #7. [OOPACT PARTIV](./q1/advancedRelationships.md)
+
+#8. [ENCAPSULATION](./q1/sg8_encapsulation.py)****
