@@ -23,4 +23,4 @@
 
 #7. [OOPACT PARTIV](./q1/advancedRelationships.md)
 
-#8. [ENCAPSULATION](./q1/sg8_encapsulation.py)****
+#8. [ENCAPSULATION](./q2/sg8_encapsulation.py)
