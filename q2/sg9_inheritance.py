@@ -4,11 +4,11 @@ class Publication:
     self._author = author
 
   @property
-  def get_title(title):
+  def get_title(self):
     return self._title
 
   @property
-  def get_author(author):
+  def get_author(self):
     return self.author
 
 class Book(Publication):
@@ -17,5 +17,7 @@ class Book(Publication):
     self._numpages = numpages
 
   @pagesetter
-  
+  def set_numpages(self, numpages):
+    if numpages < 0:
+      print("The number of pages must be positive.")
 
