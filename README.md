@@ -30,3 +30,5 @@
 #1. [ENCAPSULATION](./q2/sg8_encapsulation.py)
 
 #2. [INHERITANCE](./q2/sg9_inheritance.py)
+
+#3 [METHOD OVERRIDING](./q2/method_overriding.py)
