@@ -32,3 +32,7 @@
 #2. [INHERITANCE](./q2/sg9_inheritance.py)
 
 #3 [METHOD OVERRIDING](./q2/method_overriding.py)
+
+#3 [ACTIVITY 1](./q2/sg11_polymorphism_a1.py)
+
+#3 [ACTIVITY 2](./q2/sg11_polymorphism_a2.py)
